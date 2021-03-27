@@ -6,4 +6,4 @@ I'm learning about:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjp0704&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<span style="color:darkgray"> *Growth is accompanied by pain. Pain is accompanied by growth.* </span>
+*Growth is accompanied by pain. Pain is accompanied by growth.*
