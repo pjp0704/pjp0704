@@ -3,5 +3,3 @@
 I'm learning about:
 - JavaScript
 - TypeScript
-
-*Do what I want so I won't regret it*
